@@ -8,4 +8,6 @@ This is a comprehensive tutorial from 0 to 1 for SSM framework that includes **S
 
 ## Maven Tutorial
 
+Maven is a tool used for automated building, testing, packaging and publish Java project, as well as managing dependencies.
+
 Follow [Maven-All-In-One](https://github.com/YugenFring/Maven-All-In-One) for best practice.
