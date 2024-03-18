@@ -18,4 +18,4 @@ Broadly speaking, Spring is a technology stack based on Spring Framework, which 
 
 Narrowly speaking, Spring refers to the fundamental Spring Framework.
 
-Follow [Maven-All-In-One](https://github.com/YugenFring/Spring-All-In-One) for best practice.
+Follow [Spring-All-In-One](https://github.com/YugenFring/Spring-All-In-One) for best practice.
